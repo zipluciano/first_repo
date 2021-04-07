@@ -1,1 +1,1 @@
-# this is a dumb python script, just for GIT learning
+# this is a dumb python script, just for git learning
